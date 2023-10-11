@@ -1,0 +1,74 @@
+{
+  "validate": {
+    "required": "Bu alan boş bırakılmamalıdır.",
+    "valid_email_address": "Geçerli bir e-mail adresi giriniz."
+  },
+  "buttons": {
+    "login": "Giriş Yap"
+  },
+  "common_words": {
+    "opinion": "OPINION",
+    "popular": "POPULAR"
+  },
+
+  "form": {
+    "first_name":{
+      "field": "Ad",
+      "placeholder": "Adınızı giriniz"
+    },
+    "last_name":{
+      "field": "Soyad",
+      "placeholder": "Soyadınızı giriniz"
+    },
+    "gender":{
+      "field": "Cinsiyet",
+      "placeholder": "Cinsiyet"
+    },
+    "email": {
+      "field": "Email",
+      "placeholder": "Email"
+    },
+    "password": {
+      "field": "Şifre",
+      "placeholder": "Şifre"
+    }
+  },
+
+  "footer_menu": {
+    "dashboard": "Ana Sayfa",
+    "profile": "Profilim"
+  },
+
+  "auth_pages": {
+    "login": {
+      "subtitle": "Seni tekrar görmek güzel !",
+      "title": "Hesabına giriş yap",
+      "have_an_account": "Henüz hesabınız yok mu?",
+      "forgot_pwd": "Şifrenizi mi unuttunuz?",
+      "login_error": "E-posta veya şifre yanlış",
+      "mail_already_exist": "Bu e-posta adresi kullanılamaz. Lütfen başka bir e-posta adresi deneyiniz."
+    }
+
+  },
+
+  "profile": {
+    "menu": {
+      "personal_details": "Kullanıcı Bilgilerim",
+      "logout": "Çıkış Yap"
+    },
+    "personal_details_screen": {
+      "title": "Kişisel Bilgilerim"
+    },
+    "address_information": {
+      "title": "Adres Bilgilerim"
+    },
+    "user_is_not_login": {
+      "title": "Profil bilgilerinizi görmek için lütfen giriş yap.",
+      "description": "Üye girişi yaparak sende en son haberlere anında ulaşabilirsin."
+    }
+  
+  }
+  
+  
+
+}

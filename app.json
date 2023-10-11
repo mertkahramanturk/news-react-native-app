@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "scheme": "NewsApp",
+    "name": "NewsApp",
+    "slug": "NewsApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "jsEngine": "jsc",
+    "splash": {
+      "image": "./src/assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "REACT_APP_API_URL": "https://api.polygon.io/v2",
+      "REACT_APP_HOME_PAGE_URL": "https://api.polygon.io/v2",
+      "REACT_APP_API_USER_SERVICE": "https://dummyjson.com",
+      "REACT_APP_HOME_PAGE_URL_USER_SERVICE": "https://dummyjson.com",
+      "API_KEY": "ZCheyYEPCN6IBLxLiPRCB6k4L42Xb8rN",
+      "SKIP_PREFLIGHT_CHECK": true,
+      "INLINE_RUNTIME_CHUNK": false,
+      "eas": {
+        "projectId": "bc00a0fd-f806-4a08-8576-3822c2ac35ce"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mertkahramanturk.NewsApp"
+    },
+    "web": {
+      "favicon": "./src/assets/images/logo.png"
+    }
+  }
+}

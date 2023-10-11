@@ -1,0 +1,6 @@
+ watchman watch-del-all  
+
+& 
+ watchman shutdown-server
+
+ watchman watch-project '/Users/mertkahramanturk/Work/PERSONAL/news-react-native-app2'
